@@ -1,4 +1,4 @@
-
+Get the ultimate Affinity Designer for macOS plugin with Affinity Designer for macOS updated Plugin - plugin support and color correction. Featuring plugin support and color
 
 
 
